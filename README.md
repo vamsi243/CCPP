@@ -1,0 +1,2 @@
+# CCPP
+A combined cycle power plant (CCPP) is composed of gas turbines (GT), steam turbines (ST) and heat recovery steam generators.Features consist of hourly average ambient variables Temperature (T), Ambient Pressure (AP), Relative Humidity (RH) and Exhaust Vacuum (V), based on these features the net hourly electrical energy output (EP) of the plant is to be predicted.Performed EDA Analysis and chose Random Forest regression model to predict the net electrical output based on the data.
